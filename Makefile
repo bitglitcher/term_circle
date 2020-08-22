@@ -1,5 +1,5 @@
 all:
-	gcc main.c -g -lcurses -lm -o snake
+	gcc main.c -g -lcurses -lm -o term_circle
 
 clean:
-	rm snake
+	rm term_circle
