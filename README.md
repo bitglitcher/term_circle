@@ -1,2 +1,2 @@
-# term_circle
-Duh, It draws a circle.
+# term_snake
+Snake Game for the terminal emulator
