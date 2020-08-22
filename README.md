@@ -1,2 +1,2 @@
-# term_snake
+# TERM_CIRCLE
 Draws a circle, duh.
